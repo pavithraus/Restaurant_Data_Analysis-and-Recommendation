@@ -2,7 +2,7 @@
 
 ## Resources used
 
--**Dataset : Restaurant_dataset.csv
+**Dataset : Restaurant_dataset.csv
 -
 ## Problem Statement
 
@@ -68,6 +68,8 @@ The project included in-depth data analysis, predictive modeling, and customer p
 - The key statistical metrics for the numeric columns were identified.
 - The top country codes were 1 and 216, while cities like New Delhi, Gurgaon and Noida led in the number of restaurants.
 - The most popular cuisines include North Indian and Chinese.
+- ![image](https://github.com/user-attachments/assets/3c718452-d322-4561-bfe6-8ebfa8ef5d38)
+
 
 **3. Geographical analysis:**
 
