@@ -2,7 +2,7 @@
 
 ## Resources used
 
-**Dataset : Restaurant_dataset.csv
+- **Dataset : Restaurant_dataset.csv
 -
 ## Problem Statement
 
