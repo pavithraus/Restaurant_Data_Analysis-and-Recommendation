@@ -2,8 +2,8 @@
 
 ## Resources used
 
-- **Dataset : Restaurant_dataset.csv
--
+- **Dataset :Restaurant_dataset.csv
+  
 ## Problem Statement
 
 **Stage 1: Data exploration and analysis**
