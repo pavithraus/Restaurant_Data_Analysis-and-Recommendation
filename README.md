@@ -2,7 +2,7 @@
 
 ## Resources used
 
-- **Dataset :Restaurant_dataset.csv
+Dataset :[Restaurant_dataset.csv](https://github.com/pavithraus/Restaurant_Data_Analysis-and-Recommendation/blob/main/Restaurant_dataset.csv)
   
 ## Problem Statement
 
